@@ -1,4 +1,4 @@
-import  customerinfo
+import customerinfo
 
 result = customerinfo.pi
 result2 = customerinfo.square(3)
